@@ -1,6 +1,5 @@
 # cassino
-# just some tests of what i've learned on these days of python, nothing too elaborated but i think i'm getting better
-# yall can translate it (:
+# just some tests of what i've learned on these days of python, nothing too elaborated but i think i'm getting better It's in Portuguese, maybe i translate it to english soon) 
 
 import random
 
